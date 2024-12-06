@@ -2,9 +2,9 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 
-global.pairingNumber = "254708058050"
+global.pairingNumber = "254797666750"
  
-global.botNumber = ["254708058050"]
+global.botNumber = ["254797666750"]
 
 global.anticall = true
 
